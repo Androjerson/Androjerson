@@ -1,5 +1,5 @@
 ### Java
-- [x] Complete Git & GitHub Course
+-  :heavy_check_mark: Complete Git & GitHub Course
 - Introduction to Programming
 -Types of languages
 - Memory management
