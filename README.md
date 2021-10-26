@@ -180,5 +180,4 @@
 - Topological Sort
 - Bellman ford
 - A* pathfinding Algorithm
-- Advanced concepts apart from interviews
-@kunal-kushwaha kunal-kushwa
+
